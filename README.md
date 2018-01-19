@@ -1,5 +1,5 @@
 #shrikumarpp1
-Analysis the Breast cancer Dataset preloaded in scikit-learn, and classification into two diagnosis types using Support Vector Machines Algorithm in python with 95% precision.
+
 
 Dataset Information
 Breast Cancer Wisconsin (Diagnostic) Database
@@ -36,3 +36,7 @@ Data Set Characteristics:
  This is a copy of UCI ML Breast Cancer Wisconsin (Diagnostic) datasets.
 https://goo.gl/U2Uwz2
 
+
+
+
+Analysis the Breast cancer Dataset preloaded in scikit-learn, and classification into two diagnosis types using Support Vector Machines Algorithm in python with 95% precision.
